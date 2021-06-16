@@ -11,8 +11,8 @@ This will be presented as home page! 😀
 
 ```
 % cd your/work-directory
-% git clone ...
-% git cone ...
+% git clone https://github.com/lwz7512/next-optimus-readme.git
+% git cone https://github.com/lwz7512/using-optimus-readme.git
 ```
 
 then:

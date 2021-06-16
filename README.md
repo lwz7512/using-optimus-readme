@@ -20,7 +20,7 @@ Enjoy! 😀
 then:
 
 - cd your just cloned `using-optimus-readme` directoroy
-- Install dependencies by `npm -i` or `yarn` command
+- Install dependencies by `npm i` or `yarn` command
 - Add logo/banner/menu, in `package.json`
 - Put your logo and banner image in assets folder
 - Generate docs folder by running `npm run docs`

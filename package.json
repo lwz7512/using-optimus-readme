@@ -30,7 +30,7 @@
     }
   ],
   "devDependencies": {
-    "next-optimus-readme": "file:../next-projects/next-optimus-readme",
+    "next-optimus-readme": "file:../next-optimus-readme",
     "serve": "^12.0.0"
   },
   "scripts": {

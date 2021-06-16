@@ -23,8 +23,13 @@ then:
 - Install dependencies by `npm -i` or `yarn` command
 - Add logo/banner/menu, in `package.json`
 - Put your logo and banner image in assets folder
-- Generate docs by running `npm run docs`
+- Generate docs folder by running `npm run docs`
 - Preview documents by running `npm start`
+
+
+last:
+
+visit `http://localhost:5000`
 
 
 ## Requiements

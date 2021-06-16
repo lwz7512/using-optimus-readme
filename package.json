@@ -27,6 +27,10 @@
     {
       "name": "LICENSE",
       "slug": "/license"
+    },
+    {
+      "name": "DUMMY",
+      "slug": "/dummy_page"
     }
   ],
   "devDependencies": {

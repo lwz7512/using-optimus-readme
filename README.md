@@ -17,19 +17,19 @@ Enjoy! 😀
 % git clone https://github.com/lwz7512/using-optimus-readme.git
 ```
 
-then:
+then install, generate docs, preview, done!
 
-- cd your just cloned `using-optimus-readme` directoroy
-- Install dependencies by `npm i` or `yarn` command
-- Add logo/banner/menu, in `package.json`
-- Put your logo and banner image in assets folder
-- Generate docs folder by running `npm run docs`
-- Preview documents by running `npm start`
-
-
-last:
+```
+% cd using-optimus-readme
+% npm i
+% npm run docs
+% npm start
+```
 
 visit `http://localhost:5000`
+
+
+> Note: Change your logo/banner/menu in `package.json`, and put into assets folder
 
 
 ## Requiements

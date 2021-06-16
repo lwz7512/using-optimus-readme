@@ -17,7 +17,7 @@ Enjoy! 😀
 % git clone https://github.com/lwz7512/using-optimus-readme.git
 ```
 
-then install, generate docs, preview, done!
+Then install -> generate docs -> preview by:
 
 ```
 % cd using-optimus-readme
@@ -29,8 +29,11 @@ then install, generate docs, preview, done!
 visit `http://localhost:5000`
 
 
-> Note: Change your logo/banner/menu in `package.json`, and put image files into assets folder
+done! 🙌
 
+
+> Note: Change your logo/banner/menu in `package.json`, and put image files into assets folder.
+> You could push this newly generated docs to github then deploy it as github pages.
 
 ## Requiements
 

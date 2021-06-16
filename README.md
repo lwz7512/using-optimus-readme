@@ -29,7 +29,7 @@ then install, generate docs, preview, done!
 visit `http://localhost:5000`
 
 
-> Note: Change your logo/banner/menu in `package.json`, and put into assets folder
+> Note: Change your logo/banner/menu in `package.json`, and put image files into assets folder
 
 
 ## Requiements

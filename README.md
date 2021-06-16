@@ -1,9 +1,11 @@
-# USING NEXT-README THEME
+# USING NEXT-OPTIMUS-README
 
 
-This project is used to demonstrate how to use `next-optimus-readme` which generate project documents by transpiling a couple of markdown files.
+This project is used to demonstrate how to use [`next-optimus-readme`](https://github.com/lwz7512/next-optimus-readme) which generate project documents by transpiling a couple of markdown files.
 
-This will be presented as home page! 😀
+This will be presented as home page! 
+
+Enjoy! 😀
 
 
 ## HOWTOs

@@ -33,7 +33,7 @@ done! 🙌
 
 
 > Note: Change your logo/banner/menu in `package.json`, and put image files into assets folder.
-> You could push this newly generated docs to github then deploy it as github pages.
+> You could push this newly generated docs to [`netlify`](https://www.netlify.com/) or [`vercel`](https://vercel.com/), but it does not works with github pages unfortunately.
 
 ## Requiements
 
